@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Feedback</string>
+
+    <string name="verify_code">vcode</string>
+    <string name="verify_btn">verify</string>
+    <string name="download">Download</string>
+    <string name="resume">Resume</string>
+    <string name="refresh">Refresh</string>
+    <string name="refreshing">Refreshing..</string>
+    <string name="canceled">Canceled</string>
+    <string name="finished">Finished</string>
+    <string name="size">Size</string>
+    <string name="key">Key</string>
+    <string name="nothing_found_to_open_file">
+        There\'s nothing that can open this type of file
+    </string>
+    <string name="files_to_be_uploaded">Files to be uploaded:</string>
+    <string name="transfers">Transfers:</string>
+    <string name="open">Open</string>
+    <string name="upload_video">Upload A Video</string>
+    <string name="upload_image">Upload An Image</string>
+    <string name="create_bucket">Create bucket</string>
+    <string name="delete_bucket">Delete bucket</string>
+
+
+    <string name="title_section1">Dashboad</string>
+    <string name="title_section2">Genie</string>
+    <string name="title_section3">Offers + Promotions</string>
+    <string name="title_section4">Contact us</string>
+
+    <string name="navigation_drawer_open">Open</string>
+    <string name="navigation_drawer_close">Close</string>
+
+    <string name="action_refresh">Refresh</string>
+    <string name="action_post">Submit</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="welcome_message">Enter OTP received in your mobile</string>
+    <string name="title_activity_home">HomeActivity</string>
+
+    <string name="hello_world">Welcome Mr.</string>
+    <string name="title_activity_welcome">Welcome to Feedback</string>
+    <string name="particular">particular</string>
+    <string name="title_activity_blank">BlankActi</string>
+    <string name="title_activity_comment">commentActivity</string>
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\MohanRaj\Desktop\andriodApp\app\src\main\lib\aws-android-sdk-core-2.1.10.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8e745828ca64264810c80934270d72d574fd3154">
+        <dex dex="C:\Users\MohanRaj\Desktop\andriodApp\app\build\intermediates\pre-dexed\debug\aws-android-sdk-core-2.1.10-b4c2ae203c1c0ca81d10a638dbcbb7b6ecd86d9c.jar" />
+    </item>
+    <item
+        jar="C:\Users\MohanRaj\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\MohanRaj\Desktop\andriodApp\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-8d8bd23562caadb60393e1d99c3f63fe25e07a6d.jar" />
+    </item>
+    <item
+        jar="C:\Users\MohanRaj\Desktop\andriodApp\app\src\main\lib\aws-android-sdk-s3-2.1.10.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5399b33ac81823f6f09e4b6541fafef7c5013e39">
+        <dex dex="C:\Users\MohanRaj\Desktop\andriodApp\app\build\intermediates\pre-dexed\debug\aws-android-sdk-s3-2.1.10-516ba2c3a1c3ce56d266b499d4a323f813b9c7d5.jar" />
+    </item>
+    <item
+        jar="C:\Users\MohanRaj\Desktop\andriodApp\app\src\main\lib\Parse-1.6.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2a812174191af5a4513a873602a765b0171f252c">
+        <dex dex="C:\Users\MohanRaj\Desktop\andriodApp\app\build\intermediates\pre-dexed\debug\Parse-1.6.0-452df404290562d588252d757bcd79e674c28f4b.jar" />
+    </item>
+    <item
+        jar="C:\Users\MohanRaj\Desktop\andriodApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\5.0.89\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d71573c9c5ea98a8db47ad6ff993a63d492b3bfa">
+        <dex dex="C:\Users\MohanRaj\Desktop\andriodApp\app\build\intermediates\pre-dexed\debug\classes-b8d1a16eacb6f29c6463513fd18ac79165be3c34.jar" />
+    </item>
+
+</items>

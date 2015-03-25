@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.amazonaws.demo.s3_transfer_manager"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="11"
+        android:targetSdkVersion="19" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+
+    <application android:label="@string/title_activity_welcome" >
+        <activity
+            android:name="com.amazonaws.demo.s3_transfer_manager.HomeActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <!-- <activity android:name=".DownloadActivity" /> -->
+
+        <service
+            android:name="com.amazonaws.demo.s3_transfer_manager.network.NetworkService"
+            android:exported="false" />
+
+        <activity
+            android:name="com.amazonaws.demo.s3_transfer_manager.DashboardActivity"
+            android:label="@string/title_activity_welcome" >
+        </activity>
+        <activity
+            android:name="com.amazonaws.demo.s3_transfer_manager.MainActivity"
+            android:label="@string/title_activity_welcome" >
+        </activity>
+        <activity
+            android:name="com.amazonaws.demo.s3_transfer_manager.CommentActivity"
+            android:label="@string/title_activity_welcome" >
+        </activity>
+    </application>
+
+</manifest>
